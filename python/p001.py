@@ -1,3 +1,10 @@
+# -----------------------------------------------------------
+# project euler problem 1
+#
+# Torjus Nilsen, Kongsberg, Norway
+# email tornil1996@hotmail.com
+# -----------------------------------------------------------
+
 import numpy as np
 
 c, sum_multiples = 1, 0

@@ -16,7 +16,7 @@ import numpy as np
 # What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
 
 ###
-# IDEAS1
+# IDEAS
 ###
 
 # BRUTE FORCE WAS TOO SLOW
